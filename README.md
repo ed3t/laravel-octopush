@@ -30,6 +30,9 @@ In your .env defined configuration
 
 SMS_API_LOGIN=your-email
 SMS_API_KEY=your-api-key
+SMS_TYPE=sms-type
+SMS_MODE=sms-mode
+SMS_SENDER=your-app-name
 ```
 
 ## Usages
