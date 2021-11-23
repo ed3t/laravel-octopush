@@ -22,7 +22,7 @@
     },
     "require": {
         "php": "^7.1.3",
-        "usefulsomebody/laravel-octopush": "dev-master"
+        "usefulsomebody/laravel-octopush": "dev-main"
     },
     "require-dev": {
         "orchestra/testbench": "~3.0"
