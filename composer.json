@@ -1,0 +1,41 @@
+{
+    "name": "usefulsomebody/laravel-octopush",
+    "description": "Laravel package to send SMS using octopush.com API",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "usefulsomebody",
+            "email": "hala@edet.dev"
+        }
+    ],
+    "autoload": {
+        "classmap": ["src/"],
+        "psr-4": {
+            "OctopushSms\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
+    "require": {
+        "php": "^7.1.3",
+        "usefulsomebody/laravel-octopush": "dev-master"
+    },
+    "require-dev": {
+        "orchestra/testbench": "~3.0"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "OctopushSms\\OctopushServiceProvider"
+            ]
+        }
+    },
+    "scripts": {
+        "test": "./vendor/bin/phpunit"
+    },
+    "minimum-stability": "dev"
+}
