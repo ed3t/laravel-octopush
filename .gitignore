@@ -1,0 +1,4 @@
+/config/octopush-testing.php
+/vendor
+/logs
+.env
