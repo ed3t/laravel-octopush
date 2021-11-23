@@ -1,10 +1,10 @@
 # Laravel Octopush Package
 
-[![Latest Stable Version](https://poser.pugx.org/usefulsomebody/laravel-octopush-sdk/v/stable)](https://packagist.org/packages/usefulsomebody/laravel-octopush-sdk)
-[![Total Downloads](https://poser.pugx.org/usefulsomebody/laravel-octopush-sdk/downloads)](https://packagist.org/packages/usefulsomebody/laravel-octopush-sdk)
-[![Latest Unstable Version](https://poser.pugx.org/usefulsomebody/laravel-octopush-sdk/v/unstable)](https://packagist.org/packages/usefulsomebody/laravel-octopush-sdk)
-[![License](https://poser.pugx.org/usefulsomebody/laravel-octopush-sdk/license)](https://packagist.org/packages/usefulsomebody/laravel-octopush-sdk)
-[![composer.lock](https://poser.pugx.org/usefulsomebody/laravel-octopush-sdk/composerlock)](https://packagist.org/packages/usefulsomebody/laravel-octopush-sdk)
+[![Latest Stable Version](https://poser.pugx.org/usefulsomebody/laravel-octopush/v/stable)](https://packagist.org/packages/usefulsomebody/laravel-octopush)
+[![Total Downloads](https://poser.pugx.org/usefulsomebody/laravel-octopush/downloads)](https://packagist.org/packages/usefulsomebody/laravel-octopush)
+[![Latest Unstable Version](https://poser.pugx.org/usefulsomebody/laravel-octopush/v/unstable)](https://packagist.org/packages/usefulsomebody/laravel-octopush)
+[![License](https://poser.pugx.org/usefulsomebody/laravel-octopush/license)](https://packagist.org/packages/usefulsomebody/laravel-octopush)
+[![composer.lock](https://poser.pugx.org/usefulsomebody/laravel-octopush/composerlock)](https://packagist.org/packages/usefulsomebody/laravel-octopush)
 
 Laravel package to send SMS using [Octopush.com](http://www.octopush.com/) API
 
@@ -12,7 +12,7 @@ Laravel package to send SMS using [Octopush.com](http://www.octopush.com/) API
 ## Installation
 
 ```
-composer require usefulsomebody/laravel-octopush-sdk
+composer require usefulsomebody/laravel-octopush
 ```
 
 To run tests
